@@ -53,13 +53,13 @@ Loaded dataset into Jupyter Notebook
 
 Used Pandas for:
 
-Data inspection (head(), info(), describe())
+- Data inspection (head(), info(), describe())
 
-Feature engineering (e.g., age group segmentation)
+- Feature engineering (e.g., age group segmentation)
 
-Preparing clean, analysis-ready data
+- Preparing clean, analysis-ready data
 
-Exported processed data for SQL analysis
+- Exported processed data for SQL analysis
 
 ![Cleaned data ](python_customer_behavior.png)
  
