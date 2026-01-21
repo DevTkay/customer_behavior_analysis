@@ -193,15 +193,15 @@ Built an interactive Power BI dashboard
 
 Visualized:
 
-Revenue trends
+- Revenue trends
 
-Customer demographics
+- Customer demographics
 
-Product performance
+- Product performance
 
-Discount and subscription impact
+- Discount and subscription impact
 
-Designed for business stakeholders
+- Designed for business stakeholders
 
 ![ Dashboard](power_bi.png)
 
