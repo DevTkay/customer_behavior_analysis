@@ -203,7 +203,7 @@ Discount and subscription impact
 
 Designed for business stakeholders
 
-![ Dashboard](power_bi_customer_behavior.png)
+![ Dashboard](power_bi.png)
 
 📊 Key Insights
 
@@ -219,12 +219,12 @@ Express shipping users show higher average spending
 
 🛠️ Tools & Technologies
 
-Excel – Data validation & preprocessing
+- Excel – Data validation & preprocessing
 
-Python (Pandas) – Data cleaning & transformation
+- Python (Pandas) – Data cleaning & transformation
 
-PostgreSQL – Business analysis with SQL
+- PostgreSQL – Business analysis with SQL
 
-Power BI – Dashboard & data storytelling
+- Power BI – Dashboard & data storytelling
 
-GitHub – Version control & portfolio hosting
+- GitHub – Version control & portfolio hosting
