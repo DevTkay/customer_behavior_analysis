@@ -63,10 +63,11 @@ Exported processed data for SQL analysis
 
 ![Cleaned data ](python_customer_behavior.png)
  
-/screenshots/jupyter_data_processing.png
+Imported Create_Engine and connected with Postgresql
+
+![python data](python_to_sql.png)
 
 ### 3️⃣ Business Analysis Using SQL (PostgreSQL)
-
 The cleaned data was loaded into PostgreSQL to answer key business and performance questions.
 
 🔍 Key Business Questions & SQL Queries
