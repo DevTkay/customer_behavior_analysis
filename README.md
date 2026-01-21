@@ -37,13 +37,13 @@ Loaded raw CSV data into Excel
 
 Checked for:
 
-Missing values
+- Missing values
 
-Data inconsistencies
+- Data inconsistencies
 
-Incorrect data types
+- Incorrect data types
 
-Ensured data quality before analysis
+- Ensured data quality before analysis
 
 ![Cleaned data ](Excel_Customer_Behavior.png)
 
